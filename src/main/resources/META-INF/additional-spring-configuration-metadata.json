@@ -1,0 +1,62 @@
+{"properties": [
+  {
+    "name": "auditoria.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'auditoria.endpoint'"
+  },
+  {
+    "name": "ftp.ip",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.ip'"
+  },
+  {
+    "name": "ftp.usuario",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.usuario'"
+  },
+  {
+    "name": "ftp.cred",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.cred'"
+  },
+  {
+    "name": "ftp.key",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.key'"
+  },
+  {
+    "name": "ftp.ruta",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.ruta'"
+  },
+  {
+    "name": "ftp.dirbase",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.dirbase'"
+  },
+  {
+    "name": "ftp.nomplantilla",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.nomplantilla'"
+  },
+  {
+    "name": "login.usr",
+    "type": "java.lang.String",
+    "description": "A description for 'login.usr'"
+  },
+  {
+    "name": "login.pwd",
+    "type": "java.lang.String",
+    "description": "A description for 'login.pwd'"
+  },
+  {
+    "name": "schedule.poolsize",
+    "type": "java.lang.String",
+    "description": "A description for 'schedule.poolsize'"
+  },
+  {
+    "name": "schedule.cache.intervalo",
+    "type": "java.lang.String",
+    "description": "A description for 'schedule.cache.intervalo'"
+  }
+]}
